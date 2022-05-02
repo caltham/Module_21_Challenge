@@ -14,7 +14,7 @@ I will create a fungible token that is ERC-20 compliant and that will be minted 
 
 <img width="316" alt="compile_kcoin" src="https://user-images.githubusercontent.com/94569323/166179460-4815e34c-c6b9-4cba-b47a-536713891980.png">
 
-### Compile Kaseicoin contract
+### Compile Kaseicoin Crowdsale contract
 
 <img width="304" alt="compile_kcoin_crowd" src="https://user-images.githubusercontent.com/94569323/166179475-84c9aa73-717c-45e4-b8b7-f77b84e843cd.png">
 
